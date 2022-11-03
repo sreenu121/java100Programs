@@ -18,6 +18,8 @@ class Scanner1{
 		System.out.println("Enter the String value");
 		x = sc.nextLine();
 		System.out.println("Entered String value"+x);
+		int ax= a+b;
+		System.out.println("the addition of two numbers"+ax);
 		
 		
 	}
